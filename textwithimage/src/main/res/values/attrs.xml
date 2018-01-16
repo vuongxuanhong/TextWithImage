@@ -1,0 +1,13 @@
+<resources>
+    <declare-styleable name="TextWithImage">
+        <attr name="twi_text" format="string"/>
+        <attr name="twi_text_size_sp" format="integer"/>
+        <attr name="twi_text_padding_start" format="dimension"/>
+        <attr name="twi_text_color" format="color"/>
+        <attr name="twi_image" format="color|reference"/>
+        <attr name="twi_image_width" format="dimension"/>
+        <attr name="twi_image_height" format="dimension"/>
+        <attr name="twi_image_tint" format="color"/>
+
+    </declare-styleable>
+</resources>
